@@ -76,19 +76,6 @@ The following endpoints are available in the application:
 1. Open your browser and navigate to `http://localhost:5173`.
 2. You can add new notes, update or delete existing notes directly from the interface.
 
-## Project Structure
-
-```bash
-NoteApp/
-├── backend/
-│   ├── src/main/java/com/emak/NoteApp/
-│   ├── src/main/resources/
-│   ├── pom.xml
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   ├── package.json
-```
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
